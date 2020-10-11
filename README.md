@@ -1,6 +1,7 @@
 <h1 align="center">Hey there , I'm Andrew Schneider</h1>
 <h2 align="center">Head of Web Development at Blockchain.com</h2>
 
+<h3 align="left">The Profile</h3>
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=schnogz" alt="schnogz" /> 
 </p>
