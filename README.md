@@ -1,5 +1,4 @@
 <h1 align="left">Hey there 👋, I'm Andrew Schneider</h1>
-<h2 align="left">x</h2>
 
 <h3 align="left">The Profile</h3>
 <p align="left"> 
