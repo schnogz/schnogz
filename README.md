@@ -1,5 +1,5 @@
 <h1 align="center">Hey there , I'm Andrew Schneider</h1>
-<h3 align="center">Head of Web Development at Blockchain.com</h3>
+<h2 align="center">Head of Web Development at Blockchain.com</h2>
 
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=schnogz" alt="schnogz" /> 
@@ -12,7 +12,7 @@
 - Ask me about blockchain technologies and cryptocurrencies <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="bitcoin" width="16" height="16"/> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="16" height="16"/> <img src="https://www.vectorlogo.zone/logos/getmonero/getmonero-icon.svg" alt="monero" width="16" height="16"/>
 
 
-<h4 align="center">The Toolkit</h4>
+<h3 align="left">The Toolkit</h3>
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -31,7 +31,7 @@
  <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> 
 </p>
 
-<h4 align="center">The Languages</h4>
+<h3 align="left">The Languages</h3>
 <p>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schnogz&layout=compact&hide=html" alt="schnogz" />
 </p>
