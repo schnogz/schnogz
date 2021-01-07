@@ -1,5 +1,3 @@
-<h1 align="left">Hey there 👋, I'm Andrew Schneider</h1>
-
 <h3 align="left">The Profile</h3>
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=schnogz" alt="schnogz" /> 
