@@ -24,6 +24,7 @@
  <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/> 
+ <img src="https://www.theconsolelogs.com/react/redux.svg" alt="redux" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/ghost/ghost-icon.svg" alt="ghost" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> 
 </p>
