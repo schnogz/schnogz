@@ -2,7 +2,6 @@
  <img src="https://komarev.com/ghpvc/?username=schnogz" alt="schnogz" /> 
 </p>
 
-<h3 align="left">The Toolkit</h3>
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -22,7 +21,6 @@
  <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> 
 </p>
 
-<h3 align="left">The Languages</h3>
 <p>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schnogz&layout=compact&hide=html" alt="schnogz" />
 </p>
