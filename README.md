@@ -1,13 +1,6 @@
-<h3 align="left">The Profile</h3>
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=schnogz" alt="schnogz" /> 
 </p>
-
-- 💼 &nbsp;Head of Web Engineering at [Blockchain.com](https://blockchain.com)
-- 👾 &nbsp;Learn all about me on my personal [site](https://schnogz.com)
-- 👀 &nbsp;Read my writings on my [blog](https://theonist.com)
-- 💭 &nbsp;Ask me about blockchain technologies and cryptocurrencies <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="bitcoin" width="16" height="16"/> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="16" height="16"/> <img src="https://www.vectorlogo.zone/logos/getmonero/getmonero-icon.svg" alt="monero" width="16" height="16"/>
-
 
 <h3 align="left">The Toolkit</h3>
 <p align="left">
