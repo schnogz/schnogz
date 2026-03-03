@@ -1,10 +1,13 @@
-<p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=schnogz" alt="schnogz profile views" /> 
-</p>
+
 
 <p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schnogz&layout=compact&hide=html" alt="schnogz" />
+ ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+ ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+ ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+ ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
 </p>
+
+https://github.com/schnogz/github-profile-stats/blob/master/generated/overview.svg
 
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> 
@@ -23,4 +26,8 @@
  <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="redux" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/ghost/ghost-icon.svg" alt="ghost" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> 
+</p>
+
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=schnogz" alt="schnogz profile views" /> 
 </p>
