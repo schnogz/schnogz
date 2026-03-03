@@ -1,12 +1,10 @@
 <p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=schnogz" alt="schnogz" /> 
+ <img src="https://komarev.com/ghpvc/?username=schnogz" alt="schnogz profile views" /> 
 </p>
 
 <p>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schnogz&layout=compact&hide=html" alt="schnogz" />
 </p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=schnogz&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> 
