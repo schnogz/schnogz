@@ -1,13 +1,13 @@
 
 
 <p>
- ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
- ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
- ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
- ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
+ <img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+ <img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+ <img src="https://github.com/schnogz/github-profile-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+ <img src="https://github.com/schnogz/github-profile-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 </p>
 
-https://github.com/schnogz/github-profile-stats/blob/master/generated/overview.svg
+
 
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> 
